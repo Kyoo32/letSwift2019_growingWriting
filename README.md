@@ -29,7 +29,7 @@
 
 시작은 단순했습니다. 위 인용구처럼, 제 시간과 경험을 기록하려고 가능한 모든 것을 쓰기 시작했습니다. 
 
-제가 가장 정기적으로 쓰는 글은 1) 회사일지와 2) 팀내 블로그&스펙문서 3)깃헙 pr과 리뷰입니다.([자세히 보기](https://github.com/Kyoo32/letSwift2019_growingWriting.wiki.git))
+제가 가장 정기적으로 쓰는 글은 1) 회사일지와 2) 팀내 블로그&스펙문서 3)깃헙 pr과 리뷰입니다.([슬쩍 더보기 👀](https://github.com/Kyoo32/letSwift2019_growingWriting/wiki/%EB%B0%9C%ED%91%9C%EC%9E%90%EC%9D%98-%EC%A0%95%EA%B8%B0%EC%A0%81%EC%9D%B8-%EA%B8%80-%EC%97%BF%EB%B3%B4%EA%B8%B0-%F0%9F%91%80))
 1. 회사일지 : #나만 보는 글 #소프트한 글 #회사일과 나의 감정
     * ~
     * ~
